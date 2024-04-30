@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stephen Muasya-CISA,CISM,GRC,CPP</h1>
-<h3 align="center">I am an experienced Cybersecurity Governance, Risk, and Compliance (GRC) Professional with nine years of comprehensive expertise in developing and implementing robust strategies to safeguard organizational assets. Proficient in assessing risks, ensuring regulatory compliance, and optimizing security frameworks to mitigate vulnerabilities. Adept at fostering collaboration across departments to enhance security posture and streamline compliance efforts. Skilled in leading cross-functional teams and leveraging cutting-edge technologies to identify and address emerging threats proactively. Passionate about driving continuous improvement in cybersecurity practices to protect critical data and infrastructure.</h3>
+<h3 align="center">I am an experienced Cybersecurity Governance, Risk, and Compliance (GRC) Professional with nine years of comprehensive expertise in developing and implementing robust strategies to safeguard organizational assets. 
+Proficient in assessing risks, ensuring regulatory compliance, and optimizing security frameworks to mitigate vulnerabilities. Adept at fostering collaboration across departments to enhance security posture and streamline compliance efforts. 
+Skilled in leading cross-functional teams and leveraging cutting-edge technologies to identify and address emerging threats proactively. 
+Passionate about driving continuous improvement in cybersecurity practices to protect critical data and infrastructure.</h3>
 
 - 🔭 I’m currently working on **Information security-GRC Projects**
 
